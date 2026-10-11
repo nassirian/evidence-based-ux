@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-Based UX"
+  short_description: "Design and review interfaces with rules drawn from 86 HCI papers and WCAG 2.2"
+  default_prompt: "Use $evidence-based-ux to review this interface. Cite the rule ID, evidence grade and a concrete fix for each finding."

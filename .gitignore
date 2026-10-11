@@ -1,0 +1,6 @@
+.DS_Store
+# Paper PDFs are not redistributed; DOIs are in research/BIBLIOGRAPHY.md
+*.pdf
+# Build output
+*.zip
+dist/
